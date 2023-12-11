@@ -1,9 +1,11 @@
 # FirstRepo
-This is a trial
+This is a trial of the use of GitHUb as part of the EDX course.
 
-About
+# About
+This is a **demo**
 
-Requirements
+# Requirements
+Nothing is required at the **moment**. 
 
-Usage
-
+# Usage
+It doesn't do anything
